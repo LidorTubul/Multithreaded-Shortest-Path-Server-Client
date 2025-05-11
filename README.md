@@ -5,13 +5,11 @@ This project implements a **multithreaded server** and a **client** in **C++** f
 ---
 
 ## 📁 Project Structure
-project/
-│
+
 ├── server/
-│ ├── *.cpp # Server implementation files
-│
+│   └── server.cpp, server.h
 └── client/
-├── *.cpp # Client implementation files
+    └── client.cpp
 
 ## 🖥️ Server
 
